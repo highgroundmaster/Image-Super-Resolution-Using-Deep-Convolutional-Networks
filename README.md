@@ -24,4 +24,4 @@ The dataset consists of 500 natural images, ground-truth human annotations and b
 - The Source files are present in the `Bicubic Upsampling/Code` Folder
 - Preprocessing Folder includes functions as previous for Image Distortion, Color Space Conversion
 - Postprocessing Folder includes functions for iterative cropping, upsampling, Metric Evaluation and Plotting
-- The main notebook `Bicubic Upsampling/final.ipynb` contains the whole process
+- The main notebook `Bicubic Upsampling/upsampling.ipynb` contains the whole process
