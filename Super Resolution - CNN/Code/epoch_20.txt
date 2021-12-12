@@ -1,0 +1,419 @@
+epoch:  1
+[1,   100] loss: 1.002
+[1,   200] loss: 0.996
+[1,   300] loss: 1.007
+[1,   400] loss: 1.000
+[1,   500] loss: 0.999
+[1,   600] loss: 0.991
+[1,   700] loss: 0.993
+[1,   800] loss: 1.012
+[1,   900] loss: 0.992
+[1,  1000] loss: 1.005
+[1,  1100] loss: 1.001
+[1,  1200] loss: 1.000
+[1,  1300] loss: 1.001
+[1,  1400] loss: 1.006
+[1,  1500] loss: 0.999
+[1,  1600] loss: 0.994
+epoch 1 validation loss: 1.035879
+New lowest loss found. Saving checkpoint.
+PSNR Evaluation over Set5, Set14 and BSDS200 : Bicubic = 25.740662 ; SRCNN = 13.330092
+SSIM Evaluation over Set5, Set14 and BSDS200 : Bicubic = 0.729258 ; SRCNN = 0.360187
+epoch:  2
+[2,   100] loss: 0.998
+[2,   200] loss: 1.003
+[2,   300] loss: 0.999
+[2,   400] loss: 0.995
+[2,   500] loss: 0.992
+[2,   600] loss: 1.001
+[2,   700] loss: 1.011
+[2,   800] loss: 1.007
+[2,   900] loss: 0.998
+[2,  1000] loss: 1.000
+[2,  1100] loss: 1.010
+[2,  1200] loss: 0.999
+[2,  1300] loss: 1.002
+[2,  1400] loss: 0.995
+[2,  1500] loss: 0.997
+[2,  1600] loss: 0.990
+epoch 2 validation loss: 1.036146
+PSNR Evaluation over Set5, Set14 and BSDS200 : Bicubic = 25.740662 ; SRCNN = 13.330092
+SSIM Evaluation over Set5, Set14 and BSDS200 : Bicubic = 0.729258 ; SRCNN = 0.360187
+epoch:  3
+[3,   100] loss: 1.007
+[3,   200] loss: 1.003
+[3,   300] loss: 1.002
+[3,   400] loss: 0.994
+[3,   500] loss: 0.997
+[3,   600] loss: 0.996
+[3,   700] loss: 1.009
+[3,   800] loss: 1.002
+[3,   900] loss: 0.994
+[3,  1000] loss: 0.998
+[3,  1100] loss: 0.993
+[3,  1200] loss: 1.007
+[3,  1300] loss: 0.996
+[3,  1400] loss: 0.988
+[3,  1500] loss: 1.012
+[3,  1600] loss: 1.004
+epoch 3 validation loss: 1.035979
+PSNR Evaluation over Set5, Set14 and BSDS200 : Bicubic = 25.740662 ; SRCNN = 13.330092
+SSIM Evaluation over Set5, Set14 and BSDS200 : Bicubic = 0.729258 ; SRCNN = 0.360187
+epoch:  4
+[4,   100] loss: 0.989
+[4,   200] loss: 1.009
+[4,   300] loss: 1.007
+[4,   400] loss: 0.986
+[4,   500] loss: 0.991
+[4,   600] loss: 0.995
+[4,   700] loss: 1.009
+[4,   800] loss: 0.998
+[4,   900] loss: 0.998
+[4,  1000] loss: 1.003
+[4,  1100] loss: 1.005
+[4,  1200] loss: 0.999
+[4,  1300] loss: 0.995
+[4,  1400] loss: 1.002
+[4,  1500] loss: 1.001
+[4,  1600] loss: 1.006
+epoch 4 validation loss: 1.034588
+New lowest loss found. Saving checkpoint.
+PSNR Evaluation over Set5, Set14 and BSDS200 : Bicubic = 25.740662 ; SRCNN = 13.330092
+SSIM Evaluation over Set5, Set14 and BSDS200 : Bicubic = 0.729258 ; SRCNN = 0.360187
+epoch:  5
+[5,   100] loss: 0.998
+[5,   200] loss: 0.996
+[5,   300] loss: 0.988
+[5,   400] loss: 0.990
+[5,   500] loss: 0.983
+[5,   600] loss: 0.994
+[5,   700] loss: 1.004
+[5,   800] loss: 0.989
+[5,   900] loss: 1.003
+[5,  1000] loss: 0.980
+[5,  1100] loss: 0.987
+[5,  1200] loss: 0.974
+[5,  1300] loss: 0.951
+[5,  1400] loss: 0.937
+[5,  1500] loss: 0.896
+[5,  1600] loss: 0.810
+epoch 5 validation loss: 0.559139
+New lowest loss found. Saving checkpoint.
+PSNR Evaluation over Set5, Set14 and BSDS200 : Bicubic = 25.740662 ; SRCNN = 16.598838
+SSIM Evaluation over Set5, Set14 and BSDS200 : Bicubic = 0.729258 ; SRCNN = 0.441501
+epoch:  6
+[6,   100] loss: 0.439
+[6,   200] loss: 0.298
+[6,   300] loss: 0.215
+[6,   400] loss: 0.190
+[6,   500] loss: 0.186
+[6,   600] loss: 0.181
+[6,   700] loss: 0.183
+[6,   800] loss: 0.183
+[6,   900] loss: 0.183
+[6,  1000] loss: 0.179
+[6,  1100] loss: 0.180
+[6,  1200] loss: 0.179
+[6,  1300] loss: 0.177
+[6,  1400] loss: 0.180
+[6,  1500] loss: 0.176
+[6,  1600] loss: 0.178
+epoch 6 validation loss: 0.186224
+New lowest loss found. Saving checkpoint.
+PSNR Evaluation over Set5, Set14 and BSDS200 : Bicubic = 25.740662 ; SRCNN = 22.161250
+SSIM Evaluation over Set5, Set14 and BSDS200 : Bicubic = 0.729258 ; SRCNN = 0.552708
+epoch:  7
+[7,   100] loss: 0.174
+[7,   200] loss: 0.178
+[7,   300] loss: 0.174
+[7,   400] loss: 0.175
+[7,   500] loss: 0.172
+[7,   600] loss: 0.170
+[7,   700] loss: 0.173
+[7,   800] loss: 0.172
+[7,   900] loss: 0.170
+[7,  1000] loss: 0.170
+[7,  1100] loss: 0.171
+[7,  1200] loss: 0.170
+[7,  1300] loss: 0.171
+[7,  1400] loss: 0.170
+[7,  1500] loss: 0.166
+[7,  1600] loss: 0.169
+epoch 7 validation loss: 0.175830
+New lowest loss found. Saving checkpoint.
+PSNR Evaluation over Set5, Set14 and BSDS200 : Bicubic = 25.740662 ; SRCNN = 22.445163
+SSIM Evaluation over Set5, Set14 and BSDS200 : Bicubic = 0.729258 ; SRCNN = 0.565550
+epoch:  8
+[8,   100] loss: 0.165
+[8,   200] loss: 0.166
+[8,   300] loss: 0.166
+[8,   400] loss: 0.164
+[8,   500] loss: 0.165
+[8,   600] loss: 0.161
+[8,   700] loss: 0.162
+[8,   800] loss: 0.161
+[8,   900] loss: 0.162
+[8,  1000] loss: 0.157
+[8,  1100] loss: 0.160
+[8,  1200] loss: 0.158
+[8,  1300] loss: 0.158
+[8,  1400] loss: 0.158
+[8,  1500] loss: 0.157
+[8,  1600] loss: 0.155
+epoch 8 validation loss: 0.164180
+New lowest loss found. Saving checkpoint.
+PSNR Evaluation over Set5, Set14 and BSDS200 : Bicubic = 25.740662 ; SRCNN = 22.786596
+SSIM Evaluation over Set5, Set14 and BSDS200 : Bicubic = 0.729258 ; SRCNN = 0.583652
+epoch:  9
+[9,   100] loss: 0.155
+[9,   200] loss: 0.151
+[9,   300] loss: 0.155
+[9,   400] loss: 0.153
+[9,   500] loss: 0.149
+[9,   600] loss: 0.151
+[9,   700] loss: 0.150
+[9,   800] loss: 0.153
+[9,   900] loss: 0.147
+[9,  1000] loss: 0.147
+[9,  1100] loss: 0.145
+[9,  1200] loss: 0.147
+[9,  1300] loss: 0.147
+[9,  1400] loss: 0.145
+[9,  1500] loss: 0.145
+[9,  1600] loss: 0.142
+epoch 9 validation loss: 0.150724
+New lowest loss found. Saving checkpoint.
+PSNR Evaluation over Set5, Set14 and BSDS200 : Bicubic = 25.740662 ; SRCNN = 23.242589
+SSIM Evaluation over Set5, Set14 and BSDS200 : Bicubic = 0.729258 ; SRCNN = 0.606854
+epoch:  10
+[10,   100] loss: 0.141
+[10,   200] loss: 0.139
+[10,   300] loss: 0.140
+[10,   400] loss: 0.140
+[10,   500] loss: 0.139
+[10,   600] loss: 0.137
+[10,   700] loss: 0.136
+[10,   800] loss: 0.136
+[10,   900] loss: 0.137
+[10,  1000] loss: 0.134
+[10,  1100] loss: 0.132
+[10,  1200] loss: 0.131
+[10,  1300] loss: 0.131
+[10,  1400] loss: 0.131
+[10,  1500] loss: 0.129
+[10,  1600] loss: 0.128
+epoch 10 validation loss: 0.135698
+New lowest loss found. Saving checkpoint.
+PSNR Evaluation over Set5, Set14 and BSDS200 : Bicubic = 25.740662 ; SRCNN = 23.824121
+SSIM Evaluation over Set5, Set14 and BSDS200 : Bicubic = 0.729258 ; SRCNN = 0.636324
+epoch:  11
+[11,   100] loss: 0.126
+[11,   200] loss: 0.127
+[11,   300] loss: 0.124
+[11,   400] loss: 0.125
+[11,   500] loss: 0.124
+[11,   600] loss: 0.124
+[11,   700] loss: 0.120
+[11,   800] loss: 0.120
+[11,   900] loss: 0.119
+[11,  1000] loss: 0.120
+[11,  1100] loss: 0.118
+[11,  1200] loss: 0.118
+[11,  1300] loss: 0.117
+[11,  1400] loss: 0.116
+[11,  1500] loss: 0.116
+[11,  1600] loss: 0.115
+epoch 11 validation loss: 0.121787
+New lowest loss found. Saving checkpoint.
+PSNR Evaluation over Set5, Set14 and BSDS200 : Bicubic = 25.740662 ; SRCNN = 24.407551
+SSIM Evaluation over Set5, Set14 and BSDS200 : Bicubic = 0.729258 ; SRCNN = 0.664818
+epoch:  12
+[12,   100] loss: 0.114
+[12,   200] loss: 0.114
+[12,   300] loss: 0.112
+[12,   400] loss: 0.112
+[12,   500] loss: 0.110
+[12,   600] loss: 0.109
+[12,   700] loss: 0.108
+[12,   800] loss: 0.110
+[12,   900] loss: 0.108
+[12,  1000] loss: 0.107
+[12,  1100] loss: 0.108
+[12,  1200] loss: 0.107
+[12,  1300] loss: 0.108
+[12,  1400] loss: 0.105
+[12,  1500] loss: 0.106
+[12,  1600] loss: 0.105
+epoch 12 validation loss: 0.112154
+New lowest loss found. Saving checkpoint.
+PSNR Evaluation over Set5, Set14 and BSDS200 : Bicubic = 25.740662 ; SRCNN = 24.796987
+SSIM Evaluation over Set5, Set14 and BSDS200 : Bicubic = 0.729258 ; SRCNN = 0.684492
+epoch:  13
+[13,   100] loss: 0.105
+[13,   200] loss: 0.105
+[13,   300] loss: 0.102
+[13,   400] loss: 0.101
+[13,   500] loss: 0.102
+[13,   600] loss: 0.102
+[13,   700] loss: 0.102
+[13,   800] loss: 0.102
+[13,   900] loss: 0.102
+[13,  1000] loss: 0.101
+[13,  1100] loss: 0.100
+[13,  1200] loss: 0.101
+[13,  1300] loss: 0.099
+[13,  1400] loss: 0.102
+[13,  1500] loss: 0.099
+[13,  1600] loss: 0.100
+epoch 13 validation loss: 0.107027
+New lowest loss found. Saving checkpoint.
+PSNR Evaluation over Set5, Set14 and BSDS200 : Bicubic = 25.740662 ; SRCNN = 24.947265
+SSIM Evaluation over Set5, Set14 and BSDS200 : Bicubic = 0.729258 ; SRCNN = 0.694174
+epoch:  14
+[14,   100] loss: 0.100
+[14,   200] loss: 0.100
+[14,   300] loss: 0.098
+[14,   400] loss: 0.098
+[14,   500] loss: 0.099
+[14,   600] loss: 0.099
+[14,   700] loss: 0.099
+[14,   800] loss: 0.098
+[14,   900] loss: 0.098
+[14,  1000] loss: 0.098
+[14,  1100] loss: 0.097
+[14,  1200] loss: 0.098
+[14,  1300] loss: 0.096
+[14,  1400] loss: 0.097
+[14,  1500] loss: 0.097
+[14,  1600] loss: 0.098
+epoch 14 validation loss: 0.104665
+New lowest loss found. Saving checkpoint.
+PSNR Evaluation over Set5, Set14 and BSDS200 : Bicubic = 25.740662 ; SRCNN = 24.980456
+SSIM Evaluation over Set5, Set14 and BSDS200 : Bicubic = 0.729258 ; SRCNN = 0.697739
+epoch:  15
+[15,   100] loss: 0.096
+[15,   200] loss: 0.096
+[15,   300] loss: 0.096
+[15,   400] loss: 0.098
+[15,   500] loss: 0.096
+[15,   600] loss: 0.096
+[15,   700] loss: 0.097
+[15,   800] loss: 0.096
+[15,   900] loss: 0.096
+[15,  1000] loss: 0.097
+[15,  1100] loss: 0.098
+[15,  1200] loss: 0.097
+[15,  1300] loss: 0.097
+[15,  1400] loss: 0.094
+[15,  1500] loss: 0.095
+[15,  1600] loss: 0.096
+epoch 15 validation loss: 0.103407
+New lowest loss found. Saving checkpoint.
+PSNR Evaluation over Set5, Set14 and BSDS200 : Bicubic = 25.740662 ; SRCNN = 24.989244
+SSIM Evaluation over Set5, Set14 and BSDS200 : Bicubic = 0.729258 ; SRCNN = 0.699183
+epoch:  16
+[16,   100] loss: 0.096
+[16,   200] loss: 0.096
+[16,   300] loss: 0.098
+[16,   400] loss: 0.097
+[16,   500] loss: 0.095
+[16,   600] loss: 0.095
+[16,   700] loss: 0.096
+[16,   800] loss: 0.095
+[16,   900] loss: 0.094
+[16,  1000] loss: 0.094
+[16,  1100] loss: 0.094
+[16,  1200] loss: 0.096
+[16,  1300] loss: 0.095
+[16,  1400] loss: 0.096
+[16,  1500] loss: 0.092
+[16,  1600] loss: 0.096
+epoch 16 validation loss: 0.102502
+New lowest loss found. Saving checkpoint.
+PSNR Evaluation over Set5, Set14 and BSDS200 : Bicubic = 25.740662 ; SRCNN = 25.006843
+SSIM Evaluation over Set5, Set14 and BSDS200 : Bicubic = 0.729258 ; SRCNN = 0.700602
+epoch:  17
+[17,   100] loss: 0.094
+[17,   200] loss: 0.096
+[17,   300] loss: 0.093
+[17,   400] loss: 0.094
+[17,   500] loss: 0.096
+[17,   600] loss: 0.096
+[17,   700] loss: 0.095
+[17,   800] loss: 0.094
+[17,   900] loss: 0.094
+[17,  1000] loss: 0.093
+[17,  1100] loss: 0.096
+[17,  1200] loss: 0.095
+[17,  1300] loss: 0.094
+[17,  1400] loss: 0.094
+[17,  1500] loss: 0.095
+[17,  1600] loss: 0.093
+epoch 17 validation loss: 0.101664
+New lowest loss found. Saving checkpoint.
+PSNR Evaluation over Set5, Set14 and BSDS200 : Bicubic = 25.740662 ; SRCNN = 25.033864
+SSIM Evaluation over Set5, Set14 and BSDS200 : Bicubic = 0.729258 ; SRCNN = 0.702030
+epoch:  18
+[18,   100] loss: 0.095
+[18,   200] loss: 0.094
+[18,   300] loss: 0.092
+[18,   400] loss: 0.095
+[18,   500] loss: 0.096
+[18,   600] loss: 0.095
+[18,   700] loss: 0.093
+[18,   800] loss: 0.094
+[18,   900] loss: 0.094
+[18,  1000] loss: 0.093
+[18,  1100] loss: 0.093
+[18,  1200] loss: 0.093
+[18,  1300] loss: 0.095
+[18,  1400] loss: 0.091
+[18,  1500] loss: 0.095
+[18,  1600] loss: 0.096
+epoch 18 validation loss: 0.100862
+New lowest loss found. Saving checkpoint.
+PSNR Evaluation over Set5, Set14 and BSDS200 : Bicubic = 25.740662 ; SRCNN = 25.076189
+SSIM Evaluation over Set5, Set14 and BSDS200 : Bicubic = 0.729258 ; SRCNN = 0.703654
+epoch:  19
+[19,   100] loss: 0.091
+[19,   200] loss: 0.092
+[19,   300] loss: 0.093
+[19,   400] loss: 0.092
+[19,   500] loss: 0.093
+[19,   600] loss: 0.093
+[19,   700] loss: 0.094
+[19,   800] loss: 0.093
+[19,   900] loss: 0.094
+[19,  1000] loss: 0.092
+[19,  1100] loss: 0.093
+[19,  1200] loss: 0.093
+[19,  1300] loss: 0.092
+[19,  1400] loss: 0.094
+[19,  1500] loss: 0.094
+[19,  1600] loss: 0.093
+epoch 19 validation loss: 0.100088
+New lowest loss found. Saving checkpoint.
+PSNR Evaluation over Set5, Set14 and BSDS200 : Bicubic = 25.740662 ; SRCNN = 25.096445
+SSIM Evaluation over Set5, Set14 and BSDS200 : Bicubic = 0.729258 ; SRCNN = 0.704839
+epoch:  20
+[20,   100] loss: 0.091
+[20,   200] loss: 0.092
+[20,   300] loss: 0.092
+[20,   400] loss: 0.093
+[20,   500] loss: 0.093
+[20,   600] loss: 0.094
+[20,   700] loss: 0.093
+[20,   800] loss: 0.093
+[20,   900] loss: 0.092
+[20,  1000] loss: 0.093
+[20,  1100] loss: 0.093
+[20,  1200] loss: 0.092
+[20,  1300] loss: 0.091
+[20,  1400] loss: 0.091
+[20,  1500] loss: 0.092
+[20,  1600] loss: 0.091
+epoch 20 validation loss: 0.099288
+New lowest loss found. Saving checkpoint.
+PSNR Evaluation over Set5, Set14 and BSDS200 : Bicubic = 25.740662 ; SRCNN = 25.136975
+SSIM Evaluation over Set5, Set14 and BSDS200 : Bicubic = 0.729258 ; SRCNN = 0.706434
+Finished Training
